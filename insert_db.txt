@@ -1,0 +1,36 @@
+use jadrn058;
+
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-322','4/22/2017',22);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-320', '4/22/2017', 2);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-323', '4/22/2017', 12);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-303', '4/22/2017', 27);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-304', '4/23/2017', 3);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-305', '4/23/2017', 32);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-321', '4/23/2017', 50);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-306', '4/23/2017', 7);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-307', '4/23/2017', 10);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-308', '4/23/2017', 13);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-309', '4/24/2017', 3);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-310', '4/24/2017', 32);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-311', '4/24/2017', 31);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-312', '4/25/2017', 43);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-313', '4/25/2017', 53);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-314', '4/25/2017', 36);
+INSERT INTO on_hand(sku,last_date_modified,on_hand_quantity)VALUES
+('ABC-315', '4/26/2017', 34);

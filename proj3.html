@@ -1,0 +1,75 @@
+<!--Name:Shahane,Shweta
+  Acc_No:jadrn058 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>SHOE STORE ONLINE</title>
+    <link rel="stylesheet" href="/jadrn058/css/proj3.css">
+    <link rel="stylesheet" href="/jadrn058/css/jquery-ui.css">
+    <script src="/jadrn058/jquery.js"></script>
+    <script src="/jadrn058/jquery-ui.js"></script>
+    <script src="/jadrn058/proj3.js"></script>
+</head>
+<body>
+<div class="banner"><div class="shopname">shoetopia</div>
+<div class="search">
+<a class="cart" href="servlet/AddToCartServlet"><img src="/~jadrn058/images/cart.png" alt="Add to Cart" class="add_to_cart"></a>
+<label class="cartcount" for="cartcount">0</label>
+</div>
+</div>
+<div class="navigation_links">
+  <a href="">Home</a>
+</div>
+<div id="accordion" class="accordion">
+  <div class="category">
+  <h3 class="cat">Category</h3>
+    <table>
+      <tr>
+        <td><label for="checkbox-1">Men</label></td>
+        <td><input type="checkbox" name="checkbox-1" id="men"></td>
+      </tr>
+      <tr>
+        <td><label for="checkbox-2">Women</label></td>
+        <td><input type="checkbox" name="checkbox-2" id="women"></td>
+      </tr>
+      <tr>
+        <td><label for="checkbox-3">Children</label></td>
+        <td><input type="checkbox" name="checkbox-3" id="children"></td>
+      </tr>
+    </table>
+  </div>
+  <div class="subcategory">
+  <h3 class="subcat">Sub Category</h3>
+    <table>
+      <tr>
+        <td><label for="checkbox-1">Casual Shoes</label></td>
+        <td><input type="checkbox" name="checkbox-1" id="casual"></td>
+      </tr>
+      <tr>
+        <td><label for="checkbox-2">Sports Shoes</label></td>
+        <td><input type="checkbox" name="checkbox-2" id="sports"></td>
+      </tr>
+      <tr>
+        <td><label for="checkbox-3">Formal Shoes</label></td>
+        <td><input type="checkbox" name="checkbox-3" id="formal"></td>
+      </tr>
+    </table>
+  </div>
+<div class="filter"><input type="button" value="Filter" name="filter" id="filterButton" class="filterButton"></div>
+  <div class="price">
+      <h3 class="pr">Price</h3>
+    <p>
+      <label for="amount">Price range:</label>
+      <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+    </p>
+<div id="slider-range"></div>
+  </div>
+</div>
+<div id="products_view">
+</div>
+<div id="modal_view">
+</div>
+</body>
+</html>

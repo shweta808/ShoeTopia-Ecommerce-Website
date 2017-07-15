@@ -1,0 +1,42 @@
+use jadrn058;
+
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-322', 1, 2, 1, 'CD-322', 'good','good', '134', '255','image6.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-320', 1, 2, 2, 'AD-320', 'good','good', '234', '355','image7.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-323', 2, 1, 3, 'MD-323', 'good','good', '434', '565','image8.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-303', 2, 1, 4, 'CJ-303', 'good','good', '134', '315','image9.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-304', 3, 3, 5, 'YD-304', 'good','good', '342', '551','image10.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-305', 3, 3, 2, 'PD-305', 'good','good', '314', '551','image11.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-321', 3, 3, 2, 'PD-321', 'good','good', '314', '551','image12.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-306', 3, 3, 2, 'PD-306', 'good','good', '314', '551','image13.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-307', 3, 3, 2, 'PD-307', 'good','good', '314', '551','image14.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-308', 3, 3, 2, 'PD-308', 'good','good', '314', '551','image15.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-309', 3, 3, 2, 'PD-309', 'good','good', '314', '551','image16.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-310', 3, 3, 2, 'PD-310', 'good','good', '314', '551','image17.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-311', 3, 3, 2, 'PD-311', 'good','good', '314', '551','image18.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-312', 3, 3, 2, 'PD-312', 'good','good', '314', '551','image19.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-313', 3, 3, 2, 'PD-313', 'good','good', '314', '551','image20.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-314', 3, 3, 2, 'PD-314', 'good','good', '314', '551','image21.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-315', 3, 3, 2, 'PD-315', 'good','good', '314', '551','image22.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-316', 3, 3, 2, 'PD-316', 'good','good', '314', '551','image23.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-317', 3, 3, 2, 'PD-317', 'good','good', '314', '551','image24.jpg');
+INSERT INTO product(sku,catID,subcatID,venID,mnfgIdentity,description,features,cost,retail,image)VALUES
+('ABC-318', 3, 3, 2, 'PD-318', 'good','good', '314', '551','image25.jpg');
